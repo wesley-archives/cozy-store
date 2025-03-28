@@ -1,6 +1,6 @@
-# Cozzy Store
+# Cozy Store
 
-Cozzy Store is a comprehensive eCommerce platform for furniture, featuring a user-friendly shopping experience and a robust management system. Built using PHP, MySQL, and CSS, this project allows users to browse, purchase furniture items, and provides administrators with tools to manage products, orders, and user accounts.
+Cozy Store is a comprehensive eCommerce platform for furniture, featuring a user-friendly shopping experience and a robust management system. Built using PHP, MySQL, and CSS, this project allows users to browse, purchase furniture items, and provides administrators with tools to manage products, orders, and user accounts.
 
 ## Table of Contents
 - [Features](#features)
